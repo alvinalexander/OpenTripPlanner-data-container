@@ -37,7 +37,7 @@
     "vinyl-paths": "^2.1.0"
   },
   "devDependencies": {
-    "babel-eslint": "^8.0.3",
+    "babel-eslint": "^9.0.0",
     "eslint": "^4.1.1"
   }
 }
